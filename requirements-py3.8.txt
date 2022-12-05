@@ -1,0 +1,5 @@
+python-dotenv==0.20.0
+requests
+uuid
+firebase-admin==5.2.0
+pexpect==4.8.0
